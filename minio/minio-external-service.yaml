@@ -5,4 +5,4 @@ metadata:
   namespace: default
 spec:
   type: ExternalName
-  externalName: minio-proj.minio-ns.svc.cluster.local
+  externalName: myminio-proj-svc.minio-ns.svc.cluster.local
